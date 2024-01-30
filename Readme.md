@@ -7,6 +7,8 @@ You will perform three tasks in this exercise.
 - [ ] Amend a commit
 - [ ] Create and approve a pull request
 
+It is strongly recommended that you use a git extension for your IDE. If you are using Visual Studio Code, you can use the [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) extension. 
+
 ## Exercise 1: Create and fix a merge conflict
 
 1. Create a new branch called `merge-conflict` from `main` branch.
