@@ -7,7 +7,7 @@ You will perform three tasks in this exercise.
 - [ ] Amend a commit
 - [ ] Create and approve a pull request
 
-It is strongly recommended that you use a git extension for your IDE. If you are using Visual Studio Code, you can use the [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) extension. 
+It is strongly recommended that you use a git extension for your IDE to complete this lab. If you are using Visual Studio Code, you can use the [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) extension. 
 
 ## Setup
 1. Fork this repository to your GitHub account.
